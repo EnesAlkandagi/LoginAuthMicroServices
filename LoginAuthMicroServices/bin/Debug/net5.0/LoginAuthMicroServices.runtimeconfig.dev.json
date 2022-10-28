@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\enesy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\enesy\\.nuget\\packages"
+    ]
+  }
+}
